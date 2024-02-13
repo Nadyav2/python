@@ -1,0 +1,6 @@
+myname=str("eMobilis")
+mynumber=(47)
+mynumber2=float(235.6798)
+mybool=bool(True)
+mybool2=(False)
+mycomplexnumber=complex(1j)
